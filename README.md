@@ -49,11 +49,11 @@ Use this calculator in your web projects by embedding it within your application
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/Tushar626-byte/calculator/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/TusharDevX01/calculator/issues).
 
 ## 🌐 Connect
 
-For more of my work, feel free to check my GitHub [@Tushar626-byte](https://github.com/Tushar626-byte).
+For more of my work, feel free to check my GitHub [@TusharDevX01](https://github.com/TusharDevX01).
 
 ---
 
