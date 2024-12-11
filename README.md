@@ -28,7 +28,7 @@ Follow these steps to get the project up and running locally.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Tushar626-byte/calculator.git
+   git clone https://github.com/TusharDevX01/calculator.git
    ```
 2. **Navigate into the project folder**:
    ```bash
